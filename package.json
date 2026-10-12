@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "description": "A browser racing game set on the real streets of New Delhi.",
+  "license": "MIT",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
     "build": "tsc --noEmit && vite build",

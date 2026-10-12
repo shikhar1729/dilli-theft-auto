@@ -15,8 +15,8 @@ function gameServer(): Plugin {
 }
 
 export default defineConfig({
-  // GitHub Pages serves project sites from /<repo>/; the deploy workflow sets BASE_PATH.
-  base: process.env.BASE_PATH || '/',
+  // Relative asset paths, so the build works at a domain root or under a subpath.
+  base: './',
   plugins: [gameServer()],
   server: { port: 5173 },
   build: { target: 'es2022', chunkSizeWarningLimit: 1500 },
