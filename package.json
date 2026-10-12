@@ -1,0 +1,27 @@
+{
+  "name": "dilli-theft-auto",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A browser racing game set on the real streets of New Delhi.",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "tsc --noEmit && vite build",
+    "start": "node server/index.mjs",
+    "preview": "vite preview --host 0.0.0.0",
+    "fetch-map": "node tools/fetch-osm.mjs",
+    "map": "node tools/build-map.mjs"
+  },
+  "dependencies": {
+    "three": "^0.180.0",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "@types/three": "^0.180.0",
+    "typescript": "^5.9.2",
+    "vite": "^7.1.7"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

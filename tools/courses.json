@@ -1,0 +1,296 @@
+[
+  {
+    "id": "raisina-run",
+    "name": "Raisina Run",
+    "region": "Central Vista",
+    "blurb": "Rashtrapati Bhavan → Kartavya Path → India Gate → KG Marg → Connaught Place",
+    "start": [
+      28.61408,
+      77.2042,
+      [
+        "Kartavya Path"
+      ]
+    ],
+    "legs": [
+      {
+        "to": [
+          28.61302,
+          77.22767
+        ],
+        "streets": [
+          "Kartavya Path",
+          "Vijay Chowk"
+        ]
+      },
+      {
+        "to": [
+          28.63008,
+          77.22092
+        ],
+        "streets": [
+          "Kasturba Gandhi Marg",
+          ""
+        ]
+      },
+      {
+        "to": [
+          28.6336,
+          77.218
+        ],
+        "streets": [
+          "Inner Circle",
+          "Outer Circle",
+          "Radial Road 1"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "janpath-dash",
+    "name": "Janpath Dash",
+    "region": "Central Vista",
+    "blurb": "Connaught Place → Janpath → Kartavya Path → India Gate",
+    "start": [
+      28.62988,
+      77.21977,
+      [
+        "Janpath"
+      ]
+    ],
+    "legs": [
+      {
+        "to": [
+          28.61345,
+          77.21853
+        ],
+        "streets": [
+          "Janpath",
+          "Windsor Place",
+          ""
+        ]
+      },
+      {
+        "to": [
+          28.61302,
+          77.22767
+        ],
+        "streets": [
+          "Kartavya Path"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cp-circuit",
+    "name": "CP Circuit",
+    "region": "Connaught Place",
+    "laps": 2,
+    "blurb": "Two laps of the Connaught Place Outer Circle",
+    "start": [
+      28.6288,
+      77.2196,
+      [
+        "Outer Circle"
+      ]
+    ],
+    "legs": [
+      {
+        "to": [
+          28.6306,
+          77.2133
+        ],
+        "streets": [
+          "Outer Circle"
+        ]
+      },
+      {
+        "to": [
+          28.636,
+          77.2138
+        ],
+        "streets": [
+          "Outer Circle"
+        ]
+      },
+      {
+        "to": [
+          28.6372,
+          77.22
+        ],
+        "streets": [
+          "Outer Circle"
+        ]
+      },
+      {
+        "to": [
+          28.6343,
+          77.2256
+        ],
+        "streets": [
+          "Outer Circle"
+        ]
+      },
+      {
+        "to": [
+          28.6293,
+          77.2243
+        ],
+        "streets": [
+          "Outer Circle"
+        ]
+      },
+      {
+        "to": [
+          28.6288,
+          77.2196
+        ],
+        "streets": [
+          "Outer Circle"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "yamuna-paar",
+    "name": "Yamuna Paar",
+    "region": "East Delhi",
+    "blurb": "ITO → Vikas Marg bridge over the Yamuna → Laxmi Nagar → Nirman Vihar → Preet Vihar",
+    "start": [
+      28.6281,
+      77.2493,
+      [
+        "Vikas Marg"
+      ]
+    ],
+    "legs": [
+      {
+        "to": [
+          28.6283,
+          77.272
+        ],
+        "streets": [
+          "Vikas Marg"
+        ]
+      },
+      {
+        "to": [
+          28.6428,
+          77.297
+        ],
+        "streets": [
+          "Vikas Marg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "akshardham-express",
+    "name": "Akshardham Express",
+    "region": "East Delhi",
+    "blurb": "Nizamuddin → NH24 bridge over the Yamuna → Akshardham",
+    "start": [
+      28.5965,
+      77.257,
+      [
+        "Delhi - Meerut Expressway",
+        "NH24 Bypass"
+      ]
+    ],
+    "legs": [
+      {
+        "to": [
+          28.6128,
+          77.2815
+        ],
+        "streets": [
+          "Delhi - Meerut Expressway",
+          "NH24 Bypass",
+          "Akshardham Flyover"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "madhu-vihar-mile",
+    "name": "Madhu Vihar Mile",
+    "region": "East Delhi",
+    "blurb": "Madhu Vihar → Swami Dayanand Marg → Karkari Mor → Yamuna Sports Complex",
+    "start": [
+      28.63,
+      77.3005,
+      [
+        "Madhu Vihar Road"
+      ]
+    ],
+    "legs": [
+      {
+        "to": [
+          28.636,
+          77.305
+        ],
+        "streets": [
+          "Madhu Vihar Road",
+          "Maharaja Agrasen Marg"
+        ]
+      },
+      {
+        "to": [
+          28.6435,
+          77.2988
+        ],
+        "streets": [
+          "Swami Dayanand Marg",
+          "Madhu Vihar Road"
+        ]
+      },
+      {
+        "to": [
+          28.6598,
+          77.3085
+        ],
+        "streets": [
+          "Maharaj Surajmal Marg",
+          "Major Somnath Marg",
+          "Swami Dayanand Marg",
+          "Karkari Mor Flyover",
+          "Maharshi Valmiki Marg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shanti-path",
+    "name": "Shanti Path Sprint",
+    "region": "Chanakyapuri",
+    "blurb": "Teen Murti → Shanti Path past the embassies → Chanakyapuri",
+    "start": [
+      28.6035,
+      77.1976,
+      [
+        "Teen Murti Marg"
+      ]
+    ],
+    "legs": [
+      {
+        "to": [
+          28.5985,
+          77.1913
+        ],
+        "streets": [
+          "Teen Murti Marg",
+          "Shanti Path",
+          "Kautilya Marg"
+        ]
+      },
+      {
+        "to": [
+          28.581,
+          77.18
+        ],
+        "streets": [
+          "Shanti Path"
+        ]
+      }
+    ]
+  }
+]
