@@ -2,6 +2,8 @@
 
 Arcade racing on the real streets of Delhi, in the browser.
 
+**Play: [dillitheftauto.in](https://dillitheftauto.in)**
+
 Race from Rashtrapati Bhavan to India Gate, around Connaught Place, past the
 Chanakyapuri embassies, or over the Yamuna to Laxmi Nagar and Akshardham. The
 city is built from OpenStreetMap and Overture data: 23,000 roads, 166,000
