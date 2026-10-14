@@ -21,7 +21,7 @@ npm run dev                  # http://localhost:5173
 npm run build && npm start   # production on http://localhost:3000
 ```
 
-Static hosts (such as GitHub Pages) run single player only.
+Static hosts run single player only.
 
 ## Controls
 
